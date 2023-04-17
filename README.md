@@ -1,18 +1,13 @@
-# Salesforce DX Project: Next Steps
+# lwc pako demo
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+POC of using pako's deflate functionality in an lwc inside a salesforce org
 
-## How Do You Plan to Deploy Your Changes?
+Creates demo test json and deflates while console logging out as it goes
 
-Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
+![shot](https://github.com/jsmithdev/lwc-pako-demo/blob/main/Screenshot-logs.png?raw=true)
 
-## Configure Your Salesforce DX Project
+see more @ https://github.com/nodeca/pako
 
-The `sfdx-project.json` file contains useful configuration information for your project. See [Salesforce DX Project Configuration](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_config.htm) in the _Salesforce DX Developer Guide_ for details about this file.
+---
 
-## Read All About It
-
-- [Salesforce Extensions Documentation](https://developer.salesforce.com/tools/vscode/)
-- [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
-- [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
-- [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
+hacked w/ haste by Jamie Smith (jsmith.dev)
